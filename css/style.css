@@ -1,0 +1,98 @@
+body nav a.navbar-brand {
+  font-family: "Red Rose", serif;
+  font-weight: bold;
+}
+
+body nav {
+  background-color: #c6d6b9;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+nav div.collapse ul li a {
+  font-family: "Red Rose", serif;
+  color: rgb(18, 17, 17);
+  font-weight: bold;
+  font-size: large;
+}
+
+nav div.collapse ul li a:hover {
+  font-family: "Red Rose", serif;
+  font-weight: bolder;
+  font-size: x-large;
+  transition: 0.3s;
+}
+
+svg.pertama {
+  margin-top: 80px;
+}
+
+.pembuka {
+  background-color: #c6d6b9;
+}
+
+.tanggal {
+  font-family: "Red Rose", serif;
+  color: white;
+}
+.pembuka .judul {
+  font-family: "Red Rose", serif;
+  color: rgb(0, 0, 0);
+  background-color: #c6d6b9;
+}
+
+section.doa {
+  background-color: white;
+  font-family: "Red Rose", serif;
+}
+
+.profil {
+  background-color: #c6d6b9;
+}
+
+.profil .judulprofil {
+  font-family: "Red Rose", serif;
+  text-align: center;
+  color: black;
+}
+
+.profil .namacalon {
+  font-family: "Red Rose", serif;
+  font-size: 20px;
+}
+
+.galleri {
+  font-family: "Red Rose", serif;
+  color: black;
+}
+
+.lokasi {
+  background-color: #c6d6b9;
+  font-family: "Red Rose", serif;
+  color: black;
+}
+
+.lokasi .judullokasi {
+  font-family: "Red Rose", serif;
+  color: black;
+}
+
+.lokasi .judullokasi a {
+  text-align: start;
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  font-family: "Red Rose", serif;
+  color: black;
+}
+
+footer p a {
+  text-decoration: none;
+  color: black;
+}
+footer p a:hover {
+  text-decoration: none;
+  color: black;
+  }
