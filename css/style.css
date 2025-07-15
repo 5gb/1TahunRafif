@@ -37,7 +37,7 @@ svg.pertama {
 }
 .pembuka .judul {
   font-family: "Red Rose", serif;
-  color: rgb(0, 0, 0);
+  color: brown;
   background-color: #c6d6b9;
 }
 
@@ -53,7 +53,7 @@ section.doa {
 .profil .judulprofil {
   font-family: "Red Rose", serif;
   text-align: center;
-  color: black;
+  color: brown;
 }
 
 .profil .namacalon {
@@ -80,7 +80,7 @@ section.doa {
 .lokasi .judullokasi a {
   text-align: start;
   text-decoration: none;
-  color: black;
+  color: brown;
 }
 
 footer {
